@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833522149756",
+    "firebase_url": "https://text-recoginition-1d9a2.firebaseio.com",
+    "project_id": "text-recoginition-1d9a2",
+    "storage_bucket": "text-recoginition-1d9a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833522149756:android:3f1a12db7d84e264a31cf9",
+        "android_client_info": {
+          "package_name": "com.example.textrecoginition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833522149756-tl2544gflph1cptv7crgg8mkj7av2tj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textrecoginition",
+            "certificate_hash": "43c651dc72d37742ea67aa7a2428d1e329eaac3e"
+          }
+        },
+        {
+          "client_id": "833522149756-eea2rjnmt08cgr82hm2geop5e9jqdj5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8iYG73YlMt_LrvOoyHp2S1eoM2_Nn1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833522149756-eea2rjnmt08cgr82hm2geop5e9jqdj5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
